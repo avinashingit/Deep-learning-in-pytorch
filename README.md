@@ -3,6 +3,7 @@
 ## Table of Contents
 
 1. [Convolutional Neural Network](https://github.com/avinashingit/Deep-learning-in-pytorch/tree/master/convolutional_neural_network)
+2. [Residual Neural Network](https://github.com/avinashingit/Deep-learning-in-pytorch/tree/master/residual_neural_network)
 
 <br/>
 
@@ -19,6 +20,8 @@ $ python train_test.py
 
 - Python 3+
 - PyTorch 0.4.0
+
+<br/>
 
 ## Author
 
